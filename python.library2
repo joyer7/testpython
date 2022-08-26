@@ -1,0 +1,14 @@
+pyopenssl
+pluggy
+tqdm
+pytest
+tabulate
+google-auth-oauthlib
+platformdirs
+importlib-resources
+proto-plus
+scikit-learn
+asn1crypto
+frozenlist
+virtualenv
+py4j
